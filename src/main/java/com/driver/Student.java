@@ -9,4 +9,10 @@ public class Student {
     public Student(){
 
     }
+ public String getName() {
+        return name;
+    }
+
+
+    
 }
